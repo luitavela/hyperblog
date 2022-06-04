@@ -10,6 +10,7 @@ Este curso lo tomo porque:
 - Ya he tomado Python básico e Intermedio
 - Recomiendan este curso antes de Python Profesional
 - También debería tomar el curso "Programación orientada a Objetos"
+- Team Platzi es increíble
 
 **Este readme es una prueba **
 
