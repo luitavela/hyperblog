@@ -11,6 +11,7 @@ Este curso lo tomo porque:
 - Recomiendan este curso antes de Python Profesional
 - También debería tomar el curso "Programación orientada a Objetos"
 - Team Platzi es increíble
+- Agrego otro ejemplo linux mac windows
 
 **Este readme es una prueba **
 
